@@ -141,10 +141,10 @@ iv) Using Median Filter
 
 
 i) Using Laplacian Kernal
-![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%206.png?raw=true)
+![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%205.png?raw=true)
 
 
 ii) Using Laplacian Operator
-![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%207.png?raw=true)
+![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%206.png?raw=true)
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
