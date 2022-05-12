@@ -124,11 +124,16 @@ plt.axis("off")
 
 i) Using Averaging Filter
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%201.png?raw=true)
+
+
 ii) Using Weighted Averaging Filter
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%202.png?raw=true)
 
+
 iii) Using Gaussian Filter
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%203.png?raw=true)
+
+
 iv) Using Median Filter
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%204.png?raw=true)
 
@@ -137,6 +142,7 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%206.png?raw=true)
+
 
 ii) Using Laplacian Operator
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Filters/blob/main/hema%207.png?raw=true)
